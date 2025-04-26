@@ -5,7 +5,7 @@ import openai
 import graphviz
 
 # 🔐 Clave de API de OpenAI
-openai.api_key = "TU_API_KEY_AQUI"
+openai.api_key = "OPENAI_API_KEY"
 
 app = FastAPI()
 
